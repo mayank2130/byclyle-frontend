@@ -39,7 +39,7 @@ const Info = () => {
         }}
         className="md:text-start text-center md:text-4xl font-semibold z-10 a"
       >
-        Innovating the Future of Electric Vehicles
+        Innovating the Future of Spots Bicycles
       </motion.h1>
       <div className="my-2 mt-6 flex gap-8">
         <motion.p
